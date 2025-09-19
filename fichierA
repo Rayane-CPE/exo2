@@ -1,4 +1,7 @@
 bonjour
 modif1
+<<<<<<< HEAD
 Ceci est une modification locale
+=======
+>>>>>>> 2772ccdfb2c62124e2d12331e6409826da465d5e
 Ceci est une modification distante
